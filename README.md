@@ -1,1 +1,2 @@
-# Extens-o-super-OK
+# Extens-o-Super-Crm
+Extensão SuperCrm
